@@ -1,0 +1,16 @@
+pip install -r requirements.txt
+copy .env.example .env
+ollama pull llama3.2:1b
+python main.py
+
+Optional:
+playwright install chromium
+uvicorn badshah_ai.api.server:app --reload
+streamlit run badshah_ai/dashboard/app.py
+
+Examples:
+create website portfolio
+export workspace
+tasks
+browser scrape https://example.com
+open app notepad

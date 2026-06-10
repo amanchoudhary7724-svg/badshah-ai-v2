@@ -1,0 +1,16 @@
+python-dotenv
+pydantic
+requests
+fastapi
+uvicorn
+rich
+pandas
+openpyxl
+pypdf
+pillow
+beautifulsoup4
+streamlit
+chromadb
+pytesseract
+pyttsx3
+playwright
