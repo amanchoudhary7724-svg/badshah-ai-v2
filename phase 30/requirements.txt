@@ -1,0 +1,9 @@
+python-dotenv
+requests
+fastapi
+uvicorn
+rich
+streamlit
+pytest
+pyinstaller
+PyQt6
