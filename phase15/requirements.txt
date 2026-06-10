@@ -1,0 +1,16 @@
+python-dotenv
+requests
+fastapi
+uvicorn
+rich
+streamlit
+pytest
+pandas
+openpyxl
+pypdf
+pillow
+pytesseract
+beautifulsoup4
+pyttsx3
+SpeechRecognition
+pyaudio
