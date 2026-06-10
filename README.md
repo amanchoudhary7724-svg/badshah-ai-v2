@@ -1,1 +1,0 @@
-# badshah-ai-v2
