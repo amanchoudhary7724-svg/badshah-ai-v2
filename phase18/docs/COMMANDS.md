@@ -1,0 +1,25 @@
+# Commands
+
+- help
+- version
+- health check
+- remember my name is Sourabh
+- memory
+- memory search name
+- forget memory
+- tasks
+- plugins
+- create website portfolio
+- write file notes.txt hello
+- read file notes.txt
+- pdf C:\path\file.pdf
+- excel C:\path\data.xlsx
+- ocr C:\path\image.png
+- search latest AI news
+- open https://github.com
+- browser title https://example.com
+- browser text https://example.com
+- browser screenshot https://example.com
+- open app notepad
+- export workspace
+- release package
