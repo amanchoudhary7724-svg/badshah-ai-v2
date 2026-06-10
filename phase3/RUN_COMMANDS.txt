@@ -1,0 +1,32 @@
+Setup:
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+copy .env.example .env
+
+Install model:
+ollama pull llama3.2:1b
+
+Run CLI:
+python main.py
+
+Run API:
+uvicorn badshah_ai.api.server:app --reload
+
+Run Dashboard:
+streamlit run badshah_ai/dashboard/app.py
+
+Examples:
+create website portfolio
+ocr image C:\Users\SOURBH\Desktop\image.png
+open app notepad
+draft email to test@example.com subject Hello body Namaste
+whatsapp draft hello
+search web latest AI news
+analyze excel C:\Users\SOURBH\Desktop\data.xlsx
+summary pdf C:\Users\SOURBH\Desktop\file.pdf
+
+Push:
+git add .
+git commit -m "Add BADSHAH-AI v2 phase 3 agents"
+git push origin main
