@@ -1,0 +1,19 @@
+Setup:
+scripts\setup_windows.bat
+
+Run:
+scripts\run_cli.bat
+
+API:
+scripts\run_api.bat
+
+Dashboard:
+scripts\run_dashboard.bat
+
+Commands:
+health check
+self modify add dark mode to dashboard
+self improve browser agent
+show patches
+export workspace
+tasks
