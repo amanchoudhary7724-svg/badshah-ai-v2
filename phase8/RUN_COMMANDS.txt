@@ -1,0 +1,9 @@
+scripts\setup_windows.bat
+scripts\run_cli.bat
+
+Commands:
+version
+status
+release package
+changelog
+help

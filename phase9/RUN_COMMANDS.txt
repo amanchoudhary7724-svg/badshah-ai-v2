@@ -1,0 +1,10 @@
+scripts\setup_windows.bat
+scripts\run_cli.bat
+
+Commands:
+validate env
+smoke test
+logs
+suggest
+status
+release package
