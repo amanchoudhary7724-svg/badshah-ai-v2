@@ -1,0 +1,19 @@
+Setup:
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+copy .env.example .env
+
+Install model:
+ollama pull llama3.2:1b
+
+Run CLI:
+python main.py
+
+Run API:
+uvicorn badshah_ai.api.server:app --reload
+
+Push to GitHub:
+git add .
+git commit -m "Add BADSHAH-AI v2 phase 1 core"
+git push origin main
